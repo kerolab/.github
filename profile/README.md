@@ -30,3 +30,4 @@ Keio University, Faculty of Environment and Information Studies (SFC)
 
 慶應義塾大学 環境情報学部 黒田研究室
 📧 [kerolab.jp](http://kerolab.jp/) よりお問い合わせください
+📧 hkuroda@keio.jp
