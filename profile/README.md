@@ -1,4 +1,4 @@
-# 黒田研究室 / Kuroda Lab
+# 黒田研究室 / Kuroda Lab (Kerolab)
 
 **慶應義塾大学 環境情報学部**
 Keio University, Faculty of Environment and Information Studies (SFC)
