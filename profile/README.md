@@ -21,9 +21,8 @@ Keio University, Faculty of Environment and Information Studies (SFC)
 |--------|------|
 | [研究室ホームページ](http://kerolab.jp/) | 公式サイト |
 | [研究室情報](http://kerolab.jp/frame_R/info.htm) | メンバー・研究内容 |
-| [XCIJ（日本ツメガエル研究会）](http://kerolab.jp/xcij/x_contact.html) | *Xenopus* 研究者コミュニティ |
+| [XCIJ（日本ツメガエル研究会）]([http://kerolab.jp/xcij/x_contact.html](https://xcij.sakura.ne.jp/_/)) | *Xenopus* 研究者コミュニティ |
 | [実験プロトコル](http://kerolab.jp/xcij/protocol/common.html) | 実験手法・プロトコル集 |
-| [PASE（理科教育推進会）](http://kerolab.jp/pase/) | 理科教育アウトリーチ活動 |
 
 ---
 
